@@ -1,0 +1,8 @@
+C:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterInterface\bin\Debug\BolterInterface.dll
+C:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterInterface\bin\Debug\BolterInterface.pdb
+C:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterInterface\obj\Debug\BolterInterface.dll
+C:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterInterface\obj\Debug\BolterInterface.pdb
+D:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterInterface\bin\Debug\BolterInterface.dll
+D:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterInterface\obj\Debug\BolterInterface.dll
+D:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterInterface\bin\Debug\BolterInterface.pdb
+D:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterInterface\obj\Debug\BolterInterface.pdb

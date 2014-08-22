@@ -1,0 +1,12 @@
+C:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterLib\bin\Debug\BolterLib.dll
+C:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterLib\bin\Debug\BolterLib.pdb
+C:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterLib\bin\Debug\BolterInterface.dll
+C:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterLib\bin\Debug\BolterInterface.pdb
+C:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterLib\obj\Debug\BolterLib.csprojResolveAssemblyReference.cache
+C:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterLib\obj\Debug\BolterLib.dll
+C:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterLib\obj\Debug\BolterLib.pdb
+D:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterLib\bin\Debug\BolterLib.dll
+D:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterLib\bin\Debug\BolterInterface.dll
+D:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterLib\obj\Debug\BolterLib.csprojResolveAssemblyReference.cache
+D:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterLib\obj\Debug\BolterLib.dll
+D:\Users\Bunny2\Documents\Visual Studio 2012\Projects\BolterInterface\BolterLib\bin\Debug\BolterInterface.pdb
