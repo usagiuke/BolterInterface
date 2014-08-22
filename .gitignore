@@ -17,7 +17,7 @@ $RECYCLE.BIN/
 *.c
 *.cpp
 *.h
-*/bin/*
+*/bin/
 # =========================
 # Operating System Files
 # =========================
