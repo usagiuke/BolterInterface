@@ -20,6 +20,8 @@ $RECYCLE.BIN/
 
 BolterShim/
 ScriptSheet/
+BolterInfterface/bin/
+BolterLib/bin/
 
 # =========================
 # Operating System Files
